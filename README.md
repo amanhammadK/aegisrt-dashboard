@@ -681,6 +681,16 @@ cd ../frontend && npm test
 
 ---
 
+## Credits
+
+This project is built on top of the open-source [aegisRT](https://github.com/duriantaco/aegisRT) project by [duriantaco](https://github.com/duriantaco), licensed under MIT. We extend our gratitude to the original authors for their foundational work in LLM security testing.
+
+**Original aegisRT Contributors:**
+- [duriantaco](https://github.com/duriantaco) — Core security probes and attack vectors
+- [open-compass](https://github.com/open-compass) — Benchmarking framework
+
+---
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
